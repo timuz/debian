@@ -311,7 +311,7 @@
     </action>
   </keybind>
 
-  <!-- Mamimize application-->
+  <!-- Maximize application-->
   <keybind key="W-Up">
     <action name="ToggleMaximizeFull"></action>
   </keybind>
